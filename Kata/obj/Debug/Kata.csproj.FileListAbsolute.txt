@@ -1,0 +1,6 @@
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\bin\Debug\Kata.exe.config
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\bin\Debug\Kata.exe
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\bin\Debug\Kata.pdb
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\obj\Debug\Kata.exe
+c:\users\charlie.huang72\documents\visual studio 2013\Projects\Kata\Kata\obj\Debug\Kata.pdb

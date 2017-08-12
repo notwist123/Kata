@@ -1,0 +1,9 @@
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\KataUnitTest.dll
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\KataUnitTest.pdb
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Kata.exe
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Kata.pdb
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.csprojResolveAssemblyReference.cache
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.dll
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.pdb
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\nunit.framework.dll
+c:\Users\charlie.huang72\documents\visual studio 2013\Projects\Kata\KataUnitTest\bin\Debug\nunit.framework.xml
