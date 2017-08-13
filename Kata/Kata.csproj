@@ -44,6 +44,7 @@
     <Compile Include="BandNameGenerator.cs" />
     <Compile Include="BuildTower.cs" />
     <Compile Include="DeadAnts.cs" />
+    <Compile Include="Dubstep.cs" />
     <Compile Include="StringAverage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
