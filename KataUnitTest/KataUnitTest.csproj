@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="BandNameGeneratorTest.cs" />
     <Compile Include="BuildTowerTest.cs" />
+    <Compile Include="CountingDuplicatesTest.cs" />
     <Compile Include="DeadAntsTest.cs" />
     <Compile Include="DubstepTest.cs" />
     <Compile Include="StringAverageTest.cs" />
