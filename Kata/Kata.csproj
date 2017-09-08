@@ -46,6 +46,7 @@
     <Compile Include="CountingDuplicates.cs" />
     <Compile Include="DeadAnts.cs" />
     <Compile Include="Dubstep.cs" />
+    <Compile Include="LeetCodeTwoSum.cs" />
     <Compile Include="StringAverage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
