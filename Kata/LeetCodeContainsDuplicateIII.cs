@@ -13,7 +13,7 @@ namespace Kata
         {
             if (absoluteDiffNumber != 0)
             {
-                var duplicateIndex = inputArray.Select((x, i) => new {x, i}).OrderBy(l => l.x).ToArray();
+                var duplicateIndex = inputArray.Select((x, i) => new { x, i }).OrderBy(l => l.x).ToArray();
                 var duplicateIndexCopy = duplicateIndex;
 
                 for (int i = 0; i < duplicateIndex.Length; i++)
@@ -25,6 +25,7 @@ namespace Kata
                 }
                 return false;
             }
+
             var duplicateIndex2 = inputArray.Select((x, i) => new { x, i }).GroupBy(g => g.x).Where(w => w.Count() > 1);
 
             foreach (var g in duplicateIndex2)
