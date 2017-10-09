@@ -59,6 +59,7 @@
     <Compile Include="CountingDuplicatesTest.cs" />
     <Compile Include="DeadAntsTest.cs" />
     <Compile Include="DubstepTest.cs" />
+    <Compile Include="LeetCodeContainsDuplicateIIITeset.cs" />
     <Compile Include="LeetCodeContainsDuplicateIITeset.cs" />
     <Compile Include="LeetCodeTwoSumTest.cs" />
     <Compile Include="NextBiggerNumberTest.cs" />

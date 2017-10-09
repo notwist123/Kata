@@ -46,6 +46,7 @@
     <Compile Include="CountingDuplicates.cs" />
     <Compile Include="DeadAnts.cs" />
     <Compile Include="Dubstep.cs" />
+    <Compile Include="LeetCodeContainsDuplicateIII.cs" />
     <Compile Include="LeetCodeContainsDuplicateII.cs" />
     <Compile Include="LeetCodeThreeSum.cs" />
     <Compile Include="LeetCodeTwoSum.cs" />
