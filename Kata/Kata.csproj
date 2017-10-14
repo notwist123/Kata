@@ -51,6 +51,7 @@
     <Compile Include="LeetCodeThreeSum.cs" />
     <Compile Include="LeetCodeTwoSum.cs" />
     <Compile Include="NextBiggerNumberWithSameDigits.cs" />
+    <Compile Include="SumStringsAsNumbers.cs" />
     <Compile Include="StringAverage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
