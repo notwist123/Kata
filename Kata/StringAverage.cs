@@ -18,26 +18,11 @@ namespace Kata
             sum = 0;
             foreach (string s in _numbers)
             {
-                if (isNotRegular(s)) return "n/a";
-                sum = sum + stringTransToNumber(s);
+                if (s =="" ||Array.IndexOf(stringsOfNumbers,s) == -1) return "n/a";
+                sum = sum + Array.IndexOf(stringsOfNumbers, s);
             }
 
             return stringsOfNumbers[sum / _numbers.Length];
-        }
-
-        private int stringTransToNumber(string str)
-        {
-            int i;
-            for (i = 0; i < stringsOfNumbers.Length; i++)
-            {
-                if (str == stringsOfNumbers[i]) break;
-            }
-            return i;
-        }
-
-        private bool isNotRegular(string str)
-        {
-            return (str == "") || (!stringsOfNumbers.Contains(str));
         }
     }
 }
