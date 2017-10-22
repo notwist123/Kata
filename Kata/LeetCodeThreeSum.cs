@@ -13,7 +13,7 @@ namespace Kata
             Array.Sort(nums);
             List<IList<int>> result = new List<IList<int>>();
 
-            for (var i = 0; i < nums.Length -2; i++)
+            for (var i = 0; i < nums.Length - 2; i++)
             {
                 int firstNum = nums[i];
 
@@ -27,7 +27,7 @@ namespace Kata
 
                     if (thirdNumIndex < 0) continue;
 
-                    int[] addNum = {firstNum, nextNum, nums[thirdNumIndex]};
+                    int[] addNum = { firstNum, nextNum, nums[thirdNumIndex] };
                     result.Add(addNum);
 
                     while (j < nums.Length - 1 && nums[j] == nums[j + 1]) j++;

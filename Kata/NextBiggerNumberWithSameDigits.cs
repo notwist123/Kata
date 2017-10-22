@@ -22,7 +22,7 @@ namespace Kata
 
         private long findNumbers()
         {
-            Tuple<int,int> swapTuple = findTuple();
+            Tuple<int, int> swapTuple = findTuple();
 
             var temp = numberList[swapTuple.Item1];
             numberList[swapTuple.Item1] = numberList[swapTuple.Item2];
@@ -37,7 +37,7 @@ namespace Kata
         private Tuple<int, int> findTuple()
         {
             int item1 = 0, item2 = 0;
-            int lastNum=0;
+            int lastNum = 0;
             for (int i = numberList.Count - 1; i >= 0; i--)
             {
                 for (int j = i - 1; j >= item1; j--)
@@ -55,9 +55,9 @@ namespace Kata
                 }
                 lastNum = Convert.ToInt32(numberList[i]);
             }
-            return new Tuple<int, int>(item1,item2);
+            return new Tuple<int, int>(item1, item2);
         }
-        
+
         private bool checkNumber(List<char> number)
         {
             if (number.Count == 1) return false;

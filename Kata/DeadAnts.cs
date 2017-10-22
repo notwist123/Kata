@@ -11,8 +11,8 @@ namespace Kata
         {
             if (ants == null) return count;
 
-            ants = ants.Replace("ant","");
-            return Math.Max(ants.Count(c => c == 'a'), Math.Max(ants.Count(c => c == 'n'),ants.Count(c => c == 't')));
+            ants = ants.Replace("ant", "");
+            return Math.Max(ants.Count(c => c == 'a'), Math.Max(ants.Count(c => c == 'n'), ants.Count(c => c == 't')));
         }
     }
 }

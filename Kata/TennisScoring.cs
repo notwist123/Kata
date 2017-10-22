@@ -16,7 +16,7 @@ namespace Kata
             if (player1Win > 3 || player2Win > 3)
             {
                 if (Math.Abs(player1Win - player2Win) >= 2)
-                    return player1Win > player2Win? "Player1 Win.": "Player2 Win.";
+                    return player1Win > player2Win ? "Player1 Win." : "Player2 Win.";
                 if (Math.Abs(player1Win - player2Win) == 1)
                     return player1Win > player2Win ? "Player1 Advantage." : "Player2 Advantage.";
             }

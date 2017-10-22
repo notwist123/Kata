@@ -7,7 +7,7 @@ namespace KataUnitTest
     public class StringAverageTest
     {
         [Test]
-        [TestCase("four","zero nine five two")]
+        [TestCase("four", "zero nine five two")]
         [TestCase("three", "four six two three")]
         [TestCase("three", "one two three four five")]
         [TestCase("four", "five four")]
@@ -19,7 +19,7 @@ namespace KataUnitTest
             var Kata = new StringAverage();
             var actual = Kata.AverageString(inputString);
 
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
     }
 }

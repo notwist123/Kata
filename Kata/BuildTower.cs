@@ -8,7 +8,7 @@
 
             for (int i = nFloors; i > 0; i--)
             {
-                towerList[nFloors - i] = getSpace(i) + getStar(i,nFloors) + getSpace(i);
+                towerList[nFloors - i] = getSpace(i) + getStar(i, nFloors) + getSpace(i);
             }
 
             return towerList;

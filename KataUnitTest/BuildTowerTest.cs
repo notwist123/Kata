@@ -17,8 +17,8 @@ namespace KataUnitTest
 
             var actual = string.Join(",", kata.TowerBuilder(inputNum));
             var excepted = string.Join(",", outputStrings);
-            
-            Assert.AreEqual(excepted,actual);
+
+            Assert.AreEqual(excepted, actual);
         }
     }
 }

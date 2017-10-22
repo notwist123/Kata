@@ -6,7 +6,7 @@ namespace KataUnitTest
 {
     [TestFixture]
     public class DubstepTest
-    { 
+    {
         [Test]
         [TestCase("ABC", "WUBWUBABCWUB")]
         [TestCase("R L", "RWUBWUBWUBLWUB")]

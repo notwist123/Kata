@@ -13,9 +13,9 @@ namespace KataUnitTest
         public void SampleTests(string expected, string[] inputString)
         {
             var Kata = new SumStringsAsNumbers();
-            var actual = Kata.sumStrings(inputString[0],inputString[1]);
+            var actual = Kata.sumStrings(inputString[0], inputString[1]);
 
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
     }
 }

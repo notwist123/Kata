@@ -18,7 +18,7 @@ namespace Kata
             sum = 0;
             foreach (string s in _numbers)
             {
-                if (s =="" ||Array.IndexOf(stringsOfNumbers,s) == -1) return "n/a";
+                if (s == "" || Array.IndexOf(stringsOfNumbers, s) == -1) return "n/a";
                 sum = sum + Array.IndexOf(stringsOfNumbers, s);
             }
 
