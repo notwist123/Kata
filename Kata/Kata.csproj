@@ -58,9 +58,11 @@
   <ItemGroup>
     <Compile Include="BandNameGenerator.cs" />
     <Compile Include="BuildTower.cs" />
+    <Compile Include="ConwayGame.cs" />
     <Compile Include="CountingDuplicates.cs" />
     <Compile Include="DeadAnts.cs" />
     <Compile Include="Dubstep.cs" />
+    <Compile Include="EnumStatus.cs" />
     <Compile Include="LeetCodeContainsDuplicateIII.cs" />
     <Compile Include="LeetCodeContainsDuplicateII.cs" />
     <Compile Include="LeetCodeThreeSum.cs" />
