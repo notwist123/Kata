@@ -8,7 +8,7 @@ namespace KataUnitTest
     {
         [Test]
         [TestCase(new[] { "2H", "3D", "5S", "9C", "KD"}, new[] { "2C", "3H", "4S", "8C", "AH"},"White wins. - with highcard: Ace")]
-        [TestCase(new[] { "2H", "3D", "5S", "9C", "KD"}, new[] { "2C", "3H", "4S", "8C", "KH"},"Black wins. - with highcard: King")]
+        [TestCase(new[] { "2H", "3D", "5S", "9C", "KD"}, new[] { "2C", "3H", "4S", "8C", "KH"},"Tie.")]
 
         public void SampleTests(string[] black, string[] white, string expected)
         {
