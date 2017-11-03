@@ -64,6 +64,7 @@
     <Compile Include="LeetCodeContainsDuplicateIITeset.cs" />
     <Compile Include="LeetCodeTwoSumTest.cs" />
     <Compile Include="NextBiggerNumberWithSameDigitsTest.cs" />
+    <Compile Include="PokerHandsTest.cs" />
     <Compile Include="SumStringsAsNumbersTest.cs" />
     <Compile Include="StringAverageTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

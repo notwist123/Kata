@@ -1,12 +1,9 @@
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.csprojResolveAssemblyReference.cache
-C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\KataUnitTest.dll
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\KataUnitTest.pdb
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Kata.exe
-C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\nunit.framework.dll
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Kata.pdb
-C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\Kata.exe.config
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\bin\Debug\nunit.framework.xml
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.dll
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\KataUnitTest\obj\Debug\KataUnitTest.pdb

@@ -2,6 +2,5 @@ C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\bin\Deb
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\bin\Debug\Kata.exe
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\bin\Debug\Kata.pdb
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
-C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\obj\Debug\Kata.exe
 C:\Users\charlie.huang72\Documents\Visual Studio 2013\Projects\Kata\Kata\obj\Debug\Kata.pdb
